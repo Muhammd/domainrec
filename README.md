@@ -1,7 +1,7 @@
 # domainrec
 Bug Bounty Recon Automation Tool
 
-![ScreenShot](https://imgur.com/a/meBdtzA)
+![ScreenShot](https://i.imgur.com/RQiqPIZ.png)
 
 
 ## Features :
